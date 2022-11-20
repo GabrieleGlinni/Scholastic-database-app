@@ -1,2 +1,2 @@
-# Java Projects
-Some simple Java projects I made here and there.
+# Scholastic database app
+A simple add for registering new students, create a custom email address, keep track of contability, etc..
